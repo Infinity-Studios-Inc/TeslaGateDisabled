@@ -10,8 +10,8 @@ namespace TeslaGateDisabled
         public static readonly Main Singleton = new Main();
 
         public override string Author { get; } = "Inzi";
-        public override string Name { get; } = "Infinity Studios Plugin";
-        public override string Prefix { get; } = "InfinityStudios";
+        public override string Name { get; } = "TeslaGateDisabled";
+        public override string Prefix { get; } = "TeslaGateDisabled";
         public override Version Version { get; } = new Version(1, 0, 0);
         public override Version RequiredExiledVersion => new Version(6, 0, 0);
 
