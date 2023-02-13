@@ -2,7 +2,7 @@
 
 DEfault Configs:
 
-TeslaGateDisabled:
+```TeslaGateDisabled:
   # Is the Plugin enabled?
   is_enabled: true
   # Activate debug mode?
@@ -14,4 +14,4 @@ TeslaGateDisabled:
   - NtfPrivate
   - NtfSpecialist
   - NtfSergeant
-  - NtfCaptain
+  - NtfCaptain```
