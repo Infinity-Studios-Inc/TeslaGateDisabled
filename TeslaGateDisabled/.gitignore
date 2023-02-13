@@ -1,1 +1,4 @@
 TeslaGateDisabled.sln
+.vs/
+bin/
+obj/
