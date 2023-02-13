@@ -1,6 +1,6 @@
 # TeslaGateDisabled
 
-DEfault Configs:
+Default Configs:
 
 ```TeslaGateDisabled:
   # Is the Plugin enabled?
