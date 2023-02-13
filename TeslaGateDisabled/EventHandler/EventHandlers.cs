@@ -17,7 +17,7 @@ namespace TeslaGateDisabled.EventHandler
         {
             bool disabled = Main.Singleton.Config.Disable_all;
 
-            ev.IsAllowed = disabled;
+            ev.IsAllowed = !disabled;
 
             if (main.Config.RequiredRole.Contains(ev.Player.Role.Type))
             {
